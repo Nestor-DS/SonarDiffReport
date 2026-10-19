@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build / empaquetado
+build/
+dist/
+*.spec
+
+# Salidas y temporales
+*.docx
+*.log
+captures/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# SO
+.DS_Store
+Thumbs.db
